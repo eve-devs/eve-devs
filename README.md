@@ -2,14 +2,14 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F795E7,E4405F,38B2AC,FFD700,00C58E&height=180&section=header&text=Hi,%20I'm%20Evelyn%20%7C%20eve-devs!&fontSize=35&fontColor=fff" alt="Header banner" />
 
-  <h1>Hi, I'm Evelyn 👋</h1>
+  <h1>Hi, I'm Evelyn</h1>
 
-  <img src="https://img.shields.io/badge/Software%20Developer-🌱-F795E7?style=for-the-badge" alt="Developer badge" />
-  <img src="https://img.shields.io/badge/ServiceNow%20Dev%20%26%20BA-⚙️-00C58E?style=for-the-badge" alt="ServiceNow badge" />
-  <img src="https://img.shields.io/badge/Frontend%20%2B%20Python-💻-FFD700?style=for-the-badge" alt="Frontend + Python badge" />
+  <img src="https://img.shields.io/badge/Software%20Developer-%23F795E7?style=for-the-badge" alt="Developer badge" />
+  <img src="https://img.shields.io/badge/ServiceNow%20Developer-00C58E?style=for-the-badge" alt="ServiceNow badge" />
+  <img src="https://img.shields.io/badge/Frontend%20%2B%20Python-FFD700?style=for-the-badge" alt="Frontend + Python badge" />
 
   <p>
-    I’m a developer passionate about building useful, creative, and impactful solutions. I enjoy learning, sharing what I build, and turning ideas into projects.
+    I’m a developer passionate about building useful, creative, and impactful solutions. I enjoy learning, sharing my progress, and turning ideas into real projects.
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=eve-devs&style=for-the-badge&color=38B2AC" alt="Profile views" />
@@ -20,13 +20,19 @@
 
 ## About me
 
-- 👩‍💻 I build projects with a mix of code, creativity, and problem-solving.
-- 🚀 I’m focused on frontend, Python, and ServiceNow development.
-- 📚 I enjoy learning by doing: exercises, mini-projects, and practical challenges.
-- 🎶 I love music, football, and staying curious about new technologies.
-- 💡 I believe the best way to grow is by creating and sharing your work.
+I build projects with a mix of code, creativity, and problem-solving. My focus is on frontend development, Python, and ServiceNow solutions, with a strong interest in learning by doing and creating practical work that can be shared and improved over time.
 
 > “The best way to learn is by building, documenting, and improving.”
+
+---
+
+## Focus
+
+- Software development with a practical and creative approach
+- Frontend development and interactive user experiences
+- Python fundamentals and project-based learning
+- ServiceNow development and business process solutions
+- Building a consistent portfolio of exercises, mini-projects, and experiments
 
 ---
 
@@ -49,53 +55,39 @@
 
 ---
 
-## Current focus
+## Current roadmap
 
-- 🧠 Improving my foundations in Python and frontend development.
-- 🧩 Building practical projects that solve real problems.
-- 📝 Creating exercises and reusable code examples to keep learning visible.
-- 🌐 Sharing my journey through GitHub, content, and collaboration.
-
----
-
-## Repository hub
-
-This profile/repository is my space to organize my learning, experiments, and growing portfolio.
-
-- 📁 Projects – personal builds and app experiments.
-- 🧪 Exercises – coding challenges, mini tasks, and practice work.
-- 📚 Notes – concepts, references, and useful learnings.
-- 🚀 Growth – a place to document my progress with consistency.
+- Strengthen Python fundamentals and real project development
+- Build a portfolio of practical exercises and mini-applications
+- Improve frontend skills with clean and functional interfaces
+- Keep documenting progress and learning in GitHub repositories
+- Share more projects and useful code examples over time
 
 ---
 
-## Quick highlights
+## Repository purpose
 
-<div align="center">
+This profile is a space to organize my learning, experiments, and evolving work. It will continue growing as I add exercises, small projects, and more technical practice.
 
-| Area | Focus |
-| --- | --- |
-| Development | Clean, useful, and maintainable code |
-| Learning | Practical exercises and constant improvement |
-| Creativity | Combining UI/UX, design, and technology |
-| Career | ServiceNow + web development + product thinking |
-
-</div>
+- Practical learning
+- Project experimentation
+- Portfolio development
+- Documentation of progress
 
 ---
 
-## Learning roadmap
+## Learning path
 
 - [x] Python fundamentals
-- [x] HTML, CSS, JavaScript basics
+- [x] HTML, CSS, and JavaScript basics
 - [x] Git and GitHub workflow
-- [ ] Build first independent projects
+- [ ] Build independent projects
 - [ ] Publish more exercises and mini-projects
-- [ ] Keep growing with consistent practice and learning
+- [ ] Continue growing with consistent practice
 
 ---
 
-## Connect with me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/evelynariasv/" target="_blank">
@@ -107,14 +99,13 @@ This profile/repository is my space to organize my learning, experiments, and gr
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
-  <b>Always happy to connect, collaborate, and learn together.</b>
+  <b>Let’s build something useful and meaningful together.</b>
 </p>
 
 ---
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing.;Always+learning+and+sharing.;Creative+developer+with+purpose." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Always+learning+and+sharing.;Creative+developer+with+purpose.;Building+projects+that+matter." alt="Typing SVG" />
 
 </div>
