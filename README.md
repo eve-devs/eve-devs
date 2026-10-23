@@ -53,6 +53,10 @@ I build projects with a mix of code, creativity, and problem-solving. My focus i
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Always+learning+and+sharing.;Creative+developer+with+purpose.;Building+projects+that+matter." alt="Typing animation" />
+</p>
+
 ---
 
 ## Current roadmap
@@ -99,6 +103,7 @@ This profile is a space to organize my learning, experiments, and evolving work.
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
   <b>Let’s build something useful and meaningful together.</b>
 </p>
 
