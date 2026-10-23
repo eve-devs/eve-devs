@@ -18,6 +18,26 @@
 
 ---
 
+## Aprende conmigo
+
+Material público para estudiar en español, a tu ritmo. Esta sección queda abierta para sumar más repos de estudio: cada uno entra con su tarjeta y una línea en la lista.
+
+<p align="center">
+  <a href="https://github.com/eve-devs/python-desde-0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-devs&repo=python-desde-0&title_color=F795E7&icon_color=38B2AC&text_color=24292F&bg_color=ffffff&border_color=38B2AC" alt="Pin del repositorio python-desde-0" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/eve-devs/python-desde-0">
+    <img src="https://img.shields.io/badge/Python%20desde%20cero-Empezar%20el%20curso-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Empezar el curso Python desde cero" />
+  </a>
+</p>
+
+- **[Python desde cero](https://github.com/eve-devs/python-desde-0)** — Curso de Python en español para quien nunca ha programado. Son 8 módulos con notas, ejercicios y pruebas automáticas, para Windows, macOS y Linux.
+
+---
+
 ## About me
 
 I build projects with a mix of code, creativity, and problem-solving. My focus is on frontend development, Python, and ServiceNow solutions, with a strong interest in learning by doing and creating practical work that can be shared and improved over time.
