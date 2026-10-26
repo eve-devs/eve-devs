@@ -15,6 +15,18 @@ I’m a developer with a mix of creativity, problem-solving, and hands-on learni
 
 ---
 
+## Featured
+
+<p align="left">
+  <a href="https://github.com/eve-devs/python-desde-0">
+    <img src="https://img.shields.io/badge/Python%20desde%20cero-🌱%20Curso%20gratis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python desde cero" />
+  </a>
+</p>
+
+Curso práctico para aprender Python desde cero con explicaciones claras, ejercicios y pequeños proyectos.
+
+---
+
 ## Tech stack
 
 <p align="left">
