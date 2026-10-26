@@ -44,6 +44,9 @@ Curso práctico para aprender Python desde cero con explicaciones claras, ejerci
 ## Conecta conmigo
 
 <p align="left">
+  <a href="https://www.youtube.com/@eve-devs" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
   <a href="https://www.linkedin.com/in/evelynariasv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
