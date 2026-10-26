@@ -1,21 +1,21 @@
 <div align="center">
-  <h1>Hi, I'm Evelyn</h1>
+  <h1>Hola, soy Evelyn</h1>
   <h3>Frontend Developer • Python • ServiceNow</h3>
 
   <p>
-    I build useful products, learn by doing, and turn ideas into practical solutions.
+    Creo soluciones útiles, aprendo construyendo y convierto ideas en proyectos reales.
   </p>
 </div>
 
 ---
 
-## About me
+## Sobre mí
 
-I’m a developer with a mix of creativity, problem-solving, and hands-on learning. My focus is on frontend development, Python, and ServiceNow solutions.
+Soy desarrolladora con una mezcla de creatividad, resolución de problemas y aprendizaje práctico. Me enfoco en desarrollo frontend, Python y soluciones en ServiceNow.
 
 ---
 
-## Featured
+## Destacado
 
 <p align="left">
   <a href="https://github.com/eve-devs/python-desde-0">
@@ -41,7 +41,7 @@ Curso práctico para aprender Python desde cero con explicaciones claras, ejerci
 
 ---
 
-## Connect
+## Conecta conmigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/evelynariasv/" target="_blank">
