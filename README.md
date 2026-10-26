@@ -30,6 +30,7 @@ Curso práctico para aprender Python desde cero con explicaciones claras, ejerci
 ## Últimos videos
 
 <!-- YOUTUBE:START -->
+- [**Mira mi canal de YouTube**](https://www.youtube.com/@evedevs)
 <!-- YOUTUBE:END -->
 
 ---
