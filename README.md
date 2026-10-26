@@ -1,56 +1,38 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F795E7,E4405F,38B2AC,FFD700,00C58E&height=180&section=header&text=Hi,%20I'm%20Evelyn%20%7C%20eve-devs!&fontSize=35&fontColor=fff" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F795E7,E4405F,38B2AC,FFD700,00C58E&height=180&section=header&text=Hi,%20I'm%20Evelyn%20%7C%20eve-devs!&fontSize=35&fontColor=fff" alt="Header banner" width="100%" />
 
-  <h1>Hi, I'm Evelyn</h1>
+  <h3>Frontend Developer • Python • ServiceNow</h3>
 
-  <img src="https://img.shields.io/badge/Software%20Developer-%23F795E7?style=for-the-badge" alt="Developer badge" />
-  <img src="https://img.shields.io/badge/ServiceNow%20Developer-00C58E?style=for-the-badge" alt="ServiceNow badge" />
-  <img src="https://img.shields.io/badge/Frontend%20%2B%20Python-FFD700?style=for-the-badge" alt="Frontend + Python badge" />
+  <img src="https://img.shields.io/badge/Software%20Developer-%23F795E7?style=for-the-badge" alt="Software Developer" />
+  <img src="https://img.shields.io/badge/ServiceNow%20Developer-00C58E?style=for-the-badge" alt="ServiceNow Developer" />
+  <img src="https://img.shields.io/badge/Frontend%20%2B%20Python-FFD700?style=for-the-badge" alt="Frontend + Python" />
 
   <p>
-    I’m a developer passionate about building useful, creative, and impactful solutions. I enjoy learning, sharing my progress, and turning ideas into real projects.
+    I build meaningful products, learn by shipping, and turn ideas into practical solutions.
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=eve-devs&style=for-the-badge&color=38B2AC" alt="Profile views" />
 
 </div>
 
 ---
 
-## Aprende conmigo
-
-Material público para estudiar en español, a tu ritmo. Aquí encontrarás recursos y cursos que iré ampliando con más contenido práctico y didáctico.
-
-<p align="center">
-  <a href="https://github.com/eve-devs/python-desde-0">
-    <img src="https://img.shields.io/badge/Python%20desde%20cero-Empezar%20el%20curso-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Empezar el curso Python desde cero" />
-  </a>
-</p>
-
-- **[Python desde cero](https://github.com/eve-devs/python-desde-0)** — Curso pensado para quienes desean aprender Python desde cero, incluso si nunca han programado antes. A lo largo de 8 módulos, te guiaré a través de conceptos esenciales, ejercicios, ejemplos prácticos y mini proyectos para que avances con confianza.
-
-- **Objetivo del curso** — construir una base sólida en Python con enfoque práctico, claro y accesible, para que puedas avanzar con confianza y empezar a crear tus propios scripts y proyectos.
-
-- **¿Qué encontrarás?** — explicación en español, ejemplos sencillos, ejercicios guiados, proyectos pequeños y una ruta de aprendizaje progresiva para consolidar cada tema.
-
----
-
 ## About me
 
-I build projects with a mix of code, creativity, and problem-solving. My focus is on frontend development, Python, and ServiceNow solutions, with a strong interest in learning by doing and creating useful tools.
+I’m a developer with a mix of creativity, problem-solving, and hands-on learning. My focus is on frontend experiences, Python, and ServiceNow solutions, with a strong interest in building useful, clean, and modern tools.
 
 > “The best way to learn is by building, documenting, and improving.”
 
 ---
 
-## Focus
+## Featured
 
-- Software development with a practical and creative approach
-- Frontend development and interactive user experiences
-- Python fundamentals and project-based learning
-- ServiceNow development and business process solutions
-- Building a consistent portfolio of exercises, mini-projects, and experiments
+<p align="center">
+  <a href="https://github.com/eve-devs/python-desde-0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-devs&repo=python-desde-0&title_color=F795E7&icon_color=38B2AC&text_color=E6EDF3&bg_color=0D1117&border_color=38B2AC" alt="Python desde cero" />
+  </a>
+</p>
+
+- **[Python desde cero](https://github.com/eve-devs/python-desde-0)** — A practical beginner-friendly course to learn Python with clear explanations, exercises, and small projects.
 
 ---
 
@@ -67,45 +49,16 @@ I build projects with a mix of code, creativity, and problem-solving. My focus i
   <img src="https://img.shields.io/badge/ServiceNow-00C58E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Always+learning+and+sharing.;Creative+developer+with+a+problem-solving+mindset.;Building+useful+things+one+step+at+a+time." alt="Typing animation" />
 </p>
 
 ---
 
-## Current roadmap
+## Current focus
 
 - Strengthen Python fundamentals and real project development
-- Build a portfolio of practical exercises and mini-applications
-- Improve frontend skills with clean and functional interfaces
-- Keep documenting progress and learning in GitHub repositories
-- Share more projects and useful code examples over time
-
----
-
-## Repository purpose
-
-This profile is a space to organize my learning, experiments, and evolving work. It will continue growing as I add exercises, small projects, and more technical practice.
-
-- Practical learning
-- Project experimentation
-- Portfolio development
-- Documentation of progress
-
----
-
-## Learning path
-
-- [x] Python fundamentals
-- [x] HTML, CSS, and JavaScript basics
-- [x] Git and GitHub workflow
-- [ ] Build independent projects
-- [ ] Publish more exercises and mini-projects
-- [ ] Continue growing with consistent practice
+- Improve frontend design and user experience
+- Build practical solutions and learning projects
+- Keep documenting progress in public repositories
 
 ---
 
@@ -121,14 +74,9 @@ This profile is a space to organize my learning, experiments, and evolving work.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
-  <b>Let’s build something useful and meaningful together.</b>
+  <img src="https://komarev.com/ghpvc/?username=eve-devs&style=for-the-badge&color=38B2AC" alt="Profile views" />
 </p>
 
----
-
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Always+learning+and+sharing.;Creative+developer+with+a+problem-solving+mindset.;Building+useful+things+one+step+at+a+time." alt="Bottom typing animation" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Always+learning+and+sharing.;Building+useful+things+one+step+at+a+time.;Creative+developer+with+a+problem-solving+mindset." alt="Typing animation" />
 </div>
