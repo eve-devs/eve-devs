@@ -15,6 +15,22 @@ Soy desarrolladora con una mezcla de creatividad, resolución de problemas y apr
 
 ---
 
+## Últimos videos
+
+<p align="left">
+  <a href="https://youtu.be/HMg444z3QCA?si=CkJbQLr6gAoOLWoU" target="_blank">
+    <img src="https://img.youtube.com/vi/HMg444z3QCA/hqdefault.jpg" width="220" alt="Último video 1" />
+  </a>
+  <a href="https://youtu.be/F-bMd5ObHCw?si=KrZOmeWDfBkLBB83" target="_blank">
+    <img src="https://img.youtube.com/vi/F-bMd5ObHCw/hqdefault.jpg" width="220" alt="Último video 2" />
+  </a>
+  <a href="https://youtu.be/BDvCrLED7lg?si=_vMy6lEYA0sYdJkM" target="_blank">
+    <img src="https://img.youtube.com/vi/BDvCrLED7lg/hqdefault.jpg" width="220" alt="Último video 3" />
+  </a>
+</p>
+
+---
+
 ## Destacado
 
 <p align="left">
@@ -24,14 +40,6 @@ Soy desarrolladora con una mezcla de creatividad, resolución de problemas y apr
 </p>
 
 Curso práctico para aprender Python desde cero con explicaciones claras, ejercicios y pequeños proyectos.
-
----
-
-## Últimos videos
-
-<!-- YOUTUBE:START -->
-- [**Mira mi canal de YouTube**](https://www.youtube.com/@evedevs)
-<!-- YOUTUBE:END -->
 
 ---
 
