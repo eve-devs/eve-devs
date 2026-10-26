@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F795E7,E4405F,38B2AC,FFD700,00C58E&height=180&section=header&text=Hi,%20I'm%20Evelyn%20%7C%20eve-devs!&fontSize=35&fontColor=fff" alt="Banner de bienvenida" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F795E7,E4405F,38B2AC,FFD700,00C58E&height=180&section=header&text=Hi,%20I'm%20Evelyn%20%7C%20eve-devs!&fontSize=35&fontColor=fff" alt="Header banner" />
 
   <h1>Hi, I'm Evelyn</h1>
 
@@ -24,17 +24,11 @@ Material público para estudiar en español, a tu ritmo. Aquí encontrarás recu
 
 <p align="center">
   <a href="https://github.com/eve-devs/python-desde-0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-devs&repo=python-desde-0&title_color=F795E7&icon_color=38B2AC&text_color=24292F&bg_color=ffffff&border_color=38B2AC" alt="Repositorio Python desde cero" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/eve-devs/python-desde-0">
     <img src="https://img.shields.io/badge/Python%20desde%20cero-Empezar%20el%20curso-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Empezar el curso Python desde cero" />
   </a>
 </p>
 
-- **[Python desde cero](https://github.com/eve-devs/python-desde-0)** — Curso pensado para quienes desean aprender Python desde cero, incluso si nunca han programado antes. A lo largo de 8 módulos, se abordan conceptos fundamentales de lógica, sintaxis, estructuras de control, funciones, listas, diccionarios, manejo de archivos y proyectos básicos. Además, incluye notas de estudio, ejercicios prácticos y pruebas automáticas para reforzar lo aprendido paso a paso.
+- **[Python desde cero](https://github.com/eve-devs/python-desde-0)** — Curso pensado para quienes desean aprender Python desde cero, incluso si nunca han programado antes. A lo largo de 8 módulos, te guiaré a través de conceptos esenciales, ejercicios, ejemplos prácticos y mini proyectos para que avances con confianza.
 
 - **Objetivo del curso** — construir una base sólida en Python con enfoque práctico, claro y accesible, para que puedas avanzar con confianza y empezar a crear tus propios scripts y proyectos.
 
@@ -44,7 +38,7 @@ Material público para estudiar en español, a tu ritmo. Aquí encontrarás recu
 
 ## About me
 
-I build projects with a mix of code, creativity, and problem-solving. My focus is on frontend development, Python, and ServiceNow solutions, with a strong interest in learning by doing and creating useful experiences.
+I build projects with a mix of code, creativity, and problem-solving. My focus is on frontend development, Python, and ServiceNow solutions, with a strong interest in learning by doing and creating useful tools.
 
 > “The best way to learn is by building, documenting, and improving.”
 
@@ -78,7 +72,7 @@ I build projects with a mix of code, creativity, and problem-solving. My focus i
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Always+learning+and+sharing.;Creative+developer+with+curiosity.;Building+useful+things+with+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Always+learning+and+sharing.;Creative+developer+with+a+problem-solving+mindset.;Building+useful+things+one+step+at+a+time." alt="Typing animation" />
 </p>
 
 ---
@@ -135,6 +129,6 @@ This profile is a space to organize my learning, experiments, and evolving work.
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Always+learning+and+sharing.;Creative+developer+with+curiosity.;Turning+ideas+into+projects." alt="Frase final" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F795E7&center=true&vCenter=true&width=500&lines=Always+learning+and+sharing.;Creative+developer+with+a+problem-solving+mindset.;Building+useful+things+one+step+at+a+time." alt="Bottom typing animation" />
 
 </div>
